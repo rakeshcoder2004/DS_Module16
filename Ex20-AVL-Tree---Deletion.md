@@ -8,7 +8,7 @@ To write a C function to delete an element from an AVL Tree.
 4. Calculate the balance factor of each updated node. 
 5. Perform rotations if the node is unbalanced. 
 6. Continue until the tree is balanced again.
-7. 
+
 ## Program:
 ```
 /*
